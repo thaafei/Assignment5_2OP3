@@ -45,7 +45,6 @@ public class Q3_People {
         p1.getName();
         p2.getName();
 
-
     }
 
 
